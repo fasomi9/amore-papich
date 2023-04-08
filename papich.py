@@ -3,8 +3,8 @@
 # ( o.o ) 🔐 Licensed under the GNU AGPLv3.
 # > ^ < ⚠️ Owner of heta.hikariatama.ru doesn't take any responsibilities or intellectual property rights regarding this script
 # ---------------------------------------------------------------------------------
-# Name: animevoices
-# Author: AmoreForever
+# Name:papichvoices
+# Author:AmoreForever
 # Commands:
 # .rofl | .pshl | .luch | .author | .mne
 # .hamne | .aaa | .cho | .mank | .norofl
@@ -30,9 +30,9 @@
 # 🔒 Licensed under the GNU GPLv3
 # 🌐 https://www.gnu.org/licenses/agpl-3.0.html
 # https://t.me/amorescam
-# scope: hikka_only
-# scope: hikka_min 1.5.0
-# meta developer: @amoremods
+# scope:hikka_only
+# scope:hikka_min 1.5.0
+# meta developer:@amoremods
 
 from .. import loader
 
